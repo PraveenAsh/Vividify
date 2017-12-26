@@ -1,7 +1,10 @@
 ﻿Vividify
 ==================
 
-Image labeler game/tool
+**Image labeler game/tool**
+
+
+
 
 ![](https://upload.wikimedia.org/wikipedia/commons/5/53/Google_Image_Labeler_Logo.png)
 
