@@ -1,12 +1,14 @@
 ﻿Vividify
 ==================
 
-**Image labeler game/tool**
+
 
 
 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/5/53/Google_Image_Labeler_Logo.png)
+
+**Image labeler game/tool**
 
 
 The website looks forward to achieve image search through tags given by the user's. This is **GOOGLE's IMAGE LABELLER** in a re-invented form with interactive game mode UI. Although the website is self-explanatory, some details to set up the tools are briefed.
